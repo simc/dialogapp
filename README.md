@@ -1,4 +1,4 @@
-# dialogapp
+# Dialog Background Problem
 
 You can see the problem when you click on the "Test" button.
 
